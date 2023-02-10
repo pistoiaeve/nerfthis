@@ -1,0 +1,15 @@
+.navbar-brand img {
+  width: 4.3rem;
+  margin-top: -0.6rem;
+}
+
+.titleContent {
+  font-size: 0.8rem;
+  font-family: bebas;
+  letter-spacing: 0.1rem;
+}
+
+@font-face {
+  font-family: bebas;
+  src: url(../fonts/Bebas-Regular.ttf);
+}/*# sourceMappingURL=sass.css.map */
